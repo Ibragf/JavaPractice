@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Departament>
+	<employee>
+		<FirstName>Max</FirstName>
+		<LastName>Jackson</LastName>
+		<City>Moscow</City>
+	</employee>
+	<employee>
+		<FirstName>Srci</FirstName>
+		<LastName>ada</LastName>
+		<City>Amsterdam</City>
+	</employee>
+<employee><FirstElement>hffgh</FirstElement><LastElement>fghfgh</LastElement><City>fghfg</City></employee><employee><FirstName>JACK</FirstName><LastName>KAY</LastName><City>Paris</City></employee></Departament>
